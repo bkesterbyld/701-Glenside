@@ -85,7 +85,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: For those that don't trust GPS
     items:
       - type: FeaturedItem
         title: Feature Item One
