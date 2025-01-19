@@ -56,8 +56,8 @@ sections:
       If our driveway is full, prefer options in life or plan on an Irish exit,
       please park on Augustine Lane just south of our house. It's a 1-2 minute
       walk on the south to Eastern side of the Glenside where there is a
-      sidewalk. Don't walk on the other side as what appears to be a walkway
-      disappears on the big bend and it's dangerous.
+      sidewalk. It looks like there is a walking space over there, but that's
+      just city planning's sick sense of humor. 
 
 
       Try to cross at our southern driveway entrance as it has the best views of
