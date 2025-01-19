@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Ask Jeni for her \"Glenside\" drink. \n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
