@@ -11,9 +11,11 @@ sections:
     text: >
       We look forward too seeing you! We have space in our driveway for 10-14
       cars. As you enter our northern driveway entrance just pull and park as
-      far to right, as you enter the driveway, and go as you can and go the
-      end.  **If you don't want to get boxed in or plan on leaving early**, just
-      park around the bend on Augustine Lane (see below)
+      far to right, as you enter the driveway, and go as you can and go the end.
+
+
+      **If you don't want to get boxed in or plan on leaving early**, just park
+      around the bend on Augustine Lane (see below)
     actions: []
     media:
       url: /images/parking.png
