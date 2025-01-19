@@ -46,7 +46,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: Augustine Lane Parking
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
