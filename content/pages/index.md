@@ -89,7 +89,7 @@ sections:
     items:
       - type: FeaturedItem
         title: From Moraga
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           The house is on the left after the bend / shack on Glenside. When
           we're having people over, please enter via the farther driveway
