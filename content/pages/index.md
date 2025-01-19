@@ -117,8 +117,7 @@ sections:
         subtitle: >-
           We're on the right towards the bottom of the hill after the
           intersection with St. Mary's
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/nightime.png
