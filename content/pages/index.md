@@ -11,8 +11,8 @@ sections:
     text: >
       We look forward too seeing you! There is space in our driveway for 10-15
       cars. As you enter our northern driveway entrance please pull forward and
-      park as far right as you can, or grab an end spot. If the right side is
-      full, just pull to the left and as far forward as you can.
+      park as far right or left as you can out to the street, so there are two
+      lanes of parking. 
 
 
       **If you don't want to get boxed in or plan on leaving early**, just park
