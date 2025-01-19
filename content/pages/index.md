@@ -14,16 +14,7 @@ sections:
       far to right (as you enter the driveway, as you can and go the end.  **If
       you don't want to get boxed in or plan on leaving early**, just park
       around the bend on Augustine Lane (see below)
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/parking.png
       altText: Unblock your team boost your time to production preview
