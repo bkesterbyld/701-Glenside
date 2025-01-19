@@ -114,7 +114,9 @@ sections:
       - type: FeaturedItem
         title: From Lafayette / Walnut Creek
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          We're on the right towards the bottom of the hill after the
+          intersection with St. Mary's
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
