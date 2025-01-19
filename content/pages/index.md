@@ -51,7 +51,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      If you plan are leaving early or love Irish exits, you're in luck!
       Augustine Lane just around the big Glenside curve is a 1-2 minute walk on
       the Southern /  Eastern side of the Glenside where there is a sidewalk. It
       looks like there is walking space across from Augustine, but that's just
@@ -60,7 +59,7 @@ sections:
 
       Try to cross at our southern driveway entrance as it has the best views of
       traffic both ways during the day. When leaving, the northern driveway
-      entrance has the better view.
+      (entrance has the better view.
     actions: []
     media:
       url: /images/walkingtoglenside4.png
