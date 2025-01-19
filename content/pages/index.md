@@ -56,12 +56,6 @@ sections:
       side of the Glenside where there is a sidewalk. Don't walk on the other
       side as there is very little space to walk on the big curve. 
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
