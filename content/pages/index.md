@@ -113,7 +113,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: From Lafayette / Walnut Creek
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           We're on the right towards the bottom of the hill after the
           intersection with St. Mary's
