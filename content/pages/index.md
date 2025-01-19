@@ -57,9 +57,9 @@ sections:
       city planning's sick sense of humor.
 
 
-      Try to cross at our southern driveway entrance as it has the best views of
-      traffic both ways during the day. When leaving, the northern driveway
-      (entrance has the better view.
+      When on foot to our house, try to cross at our southern driveway entrance
+      as it has the best views of traffic both ways during the day. When
+      leaving, the northern driveway has the better view.
     actions: []
     media:
       url: /images/walkingtoglenside4.png
