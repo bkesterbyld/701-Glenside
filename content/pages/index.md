@@ -112,7 +112,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: From Lafayette / Walnut Creek
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
