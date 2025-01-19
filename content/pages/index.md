@@ -54,7 +54,11 @@ sections:
       If our driveway is full or you want freedom to escape, please park on
       Augustine Lane just south of our house and walk on the sourth / eastern
       side of the Glenside where there is a sidewalk. Don't walk on the other
-      side as there is very little space to walk on the big curve. 
+      side as there is very little space to walk on the big curve.
+
+
+      Try to cross at our southern driveway entrance as it has the best views of
+      traffic both ways.
     actions: []
     media:
       url: /images/walkingtoglenside.png
