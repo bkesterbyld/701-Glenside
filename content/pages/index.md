@@ -9,15 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We look forward too seeing you! There is space in our driveway for 10-15
-      cars. As you enter our northern driveway entrance please pull forward and
-      park as far right as you can until all those spots are full. When those
-      spots are full please park to the left, as far forward to the street as
-      possible.
-
-
-      **If you don't want to get boxed in or plan on leaving early**, just park
-      around the bend on Augustine Lane (see below)
+      We look forward too seeing you! There is space in our driveway 8-10 cars.
+      As you enter our northern driveway entrance please pull forward and park
+      as far right as you can until all those spots are full. When those spots
+      are full please leave the left lane open for drop-off and park on
+      Augustine Lane.
     actions: []
     media:
       url: /images/Screenshotglensidedrive.png
