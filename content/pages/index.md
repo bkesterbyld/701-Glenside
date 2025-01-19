@@ -88,7 +88,7 @@ sections:
     subtitle: For those that don't trust GPS
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: From Morage
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
