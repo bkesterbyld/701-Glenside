@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We look forward too seeing you! We have space in our driveway for 10-14
+      We look forward too seeing you! We have space in our driveway for 10-15
       cars. As you enter our northern driveway entrance please pull forward and
       park as far right as you can, or grab an end spot.
 
