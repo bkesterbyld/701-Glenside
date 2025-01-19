@@ -63,7 +63,7 @@ sections:
       traffic both ways.
     actions: []
     media:
-      url: /images/walkingtoglenside.png
+      url: /images/walkingtoglenside4.png
       altText: Dope design preview
       type: ImageBlock
     badge:
