@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We look forward too seeing you! We have space in our driveway for 10-14
+      cars. As you enter our northern driveway entrance just pull and park as
+      far to right (as you enter the driveway, as you can and go the end.  **If
+      you don't want to get boxed in or plan on leaving early**, just park
+      around the bend on Augustine Lane (see below)
     actions:
       - label: Get started
         altText: ''
