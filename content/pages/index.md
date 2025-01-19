@@ -18,7 +18,7 @@ sections:
       around the bend on Augustine Lane (see below)
     actions: []
     media:
-      url: /images/parking.png
+      url: /images/701GlensideParking.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
