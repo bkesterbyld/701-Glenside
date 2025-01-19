@@ -7,12 +7,6 @@
     "text": "Ask Jeni for her \"Glenside\" drink. \n",
     "socialLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
