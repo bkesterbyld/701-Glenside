@@ -80,8 +80,8 @@ sections:
         tagline: ''
         subtitle: >-
           The house is on the left after the second big bend on Glenside, past
-          Larry's (RIP) Shack. If parking at our place, please enter via the
-          farther driveway entrance.
+          Larry's (RIP) Shack. Please enter via the farther driveway entrance
+          where the mailbox is.
         text: ''
         image:
           type: ImageBlock
