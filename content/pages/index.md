@@ -88,7 +88,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: For those that don't trust GPS
+    subtitle: 'Semi old school, pre-GPS directions'
     items:
       - type: FeaturedItem
         title: From Moraga
