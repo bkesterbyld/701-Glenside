@@ -91,9 +91,9 @@ sections:
         title: From Moraga
         tagline: ''
         subtitle: >-
-          The house is on the left after the bend and old timer's shack on
-          Glenside. When we're having people over, please enter via the farther
-          driveway entrance.
+          The house is on the left after the second big bend on Glenside, past
+          Larry's (RIP) Shack. When we're having people over, please enter via
+          the farther driveway entrance.
         text: ''
         image:
           type: ImageBlock
