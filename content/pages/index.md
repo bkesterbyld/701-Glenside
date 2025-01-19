@@ -88,7 +88,7 @@ sections:
     subtitle: For those that don't trust GPS
     items:
       - type: FeaturedItem
-        title: From Morage
+        title: From Moraga
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: ''
