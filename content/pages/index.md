@@ -10,8 +10,8 @@ sections:
     subtitle: ''
     text: >
       We look forward too seeing you! We have space in our driveway for 10-14
-      cars. As you enter our northern driveway entrance just forward and park as
-      far right as you can, or grab an end spot. 
+      cars. As you enter our northern driveway entrance please pull forward and
+      park as far right as you can, or grab an end spot.
 
 
       **If you don't want to get boxed in or plan on leaving early**, just park
