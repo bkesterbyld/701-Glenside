@@ -55,14 +55,7 @@ sections:
       Augustine Lane just south of our house and walk on the sourth / eastern
       side of the Glenside where there is a sidewalk. Don't walk on the other
       side as there is very little space to walk on the big curve. 
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/walkingtoglenside.png
       altText: Dope design preview
