@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Parking and/or dropping off
+      text: Parking or dropping off
       color: text-dark
       type: TitleBlock
     subtitle: ''
