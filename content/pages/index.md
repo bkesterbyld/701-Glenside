@@ -51,8 +51,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      If our driveway is full or you want freedom to escape, please park on
+      Augustine Lane just south of our house and walk on the sourth / eastern
+      side of the Glenside where there is a sidewalk. Don't walk on the other
+      side as there is very little space to walk on the big curve. 
     actions:
       - label: Get started
         url: /
