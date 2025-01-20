@@ -73,7 +73,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 'Semi old school, pre-GPS directions'
+    subtitle: Don't pick "701 Glenside Circle" in your GPS
     items:
       - type: FeaturedItem
         title: From Moraga
