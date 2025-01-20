@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Kester House
 slug: /
 sections:
   - type: GenericSection
