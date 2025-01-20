@@ -49,7 +49,7 @@ sections:
 
       When on foot to our house, cross at the first / southern driveway entrance
       as it has the best views of traffic both ways during the day. When leaving
-      or at night, the other driveway has the safer view.
+      or at night, the other driveway has the better view.
     actions: []
     media:
       url: /images/walkingtoglenside4.png
