@@ -149,7 +149,11 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: >-
+          <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4031.0045202864526!2d-122.095029!3d37.8754846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085620602cc27a5%3A0xec200f8deb199af9!2s701%20Glenside%20Dr%2C%20Lafayette%2C%20CA%2094549!5e1!3m2!1sen!2sus!4v1737336695997!5m2!1sen!2sus"
+          width="600" height="450" style="border:0;" allowfullscreen=""
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
