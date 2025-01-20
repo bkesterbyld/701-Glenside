@@ -16,7 +16,7 @@ sections:
       drop-offs, and park on Augustine Lane.
     actions: []
     media:
-      url: /images/Screenshotglensidedrive.png
+      url: /images/kestorama.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
