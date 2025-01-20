@@ -129,7 +129,7 @@ sections:
     actions:
       - type: Button
         label: Google Map
-        altText: ''
+        altText: Click to see on Google Maps
         url: 'https://maps.app.goo.gl/vDajWWaALVZpX4VA8'
         showIcon: false
         icon: arrowRight
