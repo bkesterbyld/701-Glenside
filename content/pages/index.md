@@ -126,7 +126,16 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://maps.app.goo.gl/vDajWWaALVZpX4VA8'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
