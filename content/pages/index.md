@@ -128,7 +128,7 @@ sections:
             flexDirection: col
     actions:
       - type: Button
-        label: Get started
+        label: Google Map
         altText: ''
         url: 'https://maps.app.goo.gl/vDajWWaALVZpX4VA8'
         showIcon: false
