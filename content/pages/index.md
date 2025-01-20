@@ -47,9 +47,9 @@ sections:
       ago that makes it dangerous to navigate.
 
 
-      When on foot to our house, try to cross at the first / southern driveway
-      entrance as it has the best views of traffic both ways during the day.
-      When leaving or at night, the other driveway has the safer view.
+      When on foot to our house, cross at the first / southern driveway entrance
+      as it has the best views of traffic both ways during the day. When leaving
+      or at night, the other driveway has the safer view.
     actions: []
     media:
       url: /images/walkingtoglenside4.png
