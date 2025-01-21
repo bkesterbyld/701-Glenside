@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.11 91.31">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.11 64">
   <defs>
     <style>
       .cls-1 {
-        fill: #e9c221;
-        font-family: MyriadPro-Regular, 'Myriad Pro';
-        font-size: 84px;
+        fill: #21214f;
       }
 
       .cls-2 {
-        fill: #21214f;
+        fill: #e9c221;
       }
     </style>
   </defs>
-  <rect class="cls-2" y="9.02" width="64.11" height="64"/>
-  <text class="cls-1" transform="translate(10.73 70.31)"><tspan x="0" y="0">k</tspan></text>
+  <rect class="cls-1" width="64.11" height="64"/>
+  <path class="cls-2" d="M24.17,39.28h.17c1.01-1.43,2.44-3.19,3.61-4.62l11.93-14.03h8.9l-15.71,16.72,17.89,23.94h-8.99l-14.03-19.49-3.78,4.2v15.29h-7.31V1.65h7.31v37.63Z"/>
 </svg>
