@@ -72,7 +72,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: col
+        flexDirection: col-reverse
     type: GenericSection
   - type: FeaturedItemsSection
     title:
