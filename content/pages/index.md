@@ -46,7 +46,7 @@ sections:
           - pr-16
   - title:
       text: Augustine Lane parking
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
