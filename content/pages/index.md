@@ -68,7 +68,7 @@ sections:
       label: Park AROUND THE CORNER
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
