@@ -16,7 +16,7 @@ sections:
       drop-offs, and park on Augustine Lane.
     actions:
       - type: Button
-        label: Get started
+        label: Google Map
         altText: ''
         url: 'https://maps.app.goo.gl/VnodwRnLasDuQ1CN8'
         showIcon: false
