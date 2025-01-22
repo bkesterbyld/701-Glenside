@@ -14,7 +14,16 @@ sections:
       please pull forward and park as far right as you can, until those spots
       are full. When those spots are gone, please leave the left lane open for
       drop-offs, and park on Augustine Lane.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://maps.app.goo.gl/VnodwRnLasDuQ1CN8'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       url: /images/kestorama.png
       altText: Unblock your team boost your time to production preview
