@@ -55,7 +55,7 @@ sections:
       Augustine Lane is near the big Glenside curve and is a 1-2 minute walk on
       the Southern sidewalk of Glenside. It may look like there is walking space
       across the street from Augustine, but residents planted stuff there long
-      ago that makes it dangerous to navigate.
+      ago and the walkway is gone.
 
 
       When on foot to our house, cross at the first / southern driveway entrance
