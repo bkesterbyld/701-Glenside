@@ -8,14 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       We can't wait to see you! Our driveway has space for 8-10 cars. Please
       enter through the northern driveway entrance (marked by the mailbox), pull
-      forward, and park along the right side and along curb in front of the
-      house. That keeps the street-facing side of the driveway clear for
-      drop-offs. If there are no spots available turn right out of our other
-      driveway access and take the second left onto Augustine Lane to park. 
-
+      forward as far as you can, and park along the right side and along curb in
+      front of the house. That keeps the street-facing side of the driveway
+      clear for drop-offs. If there are no spots available turn right out of our
+      other driveway access and take the second left onto Augustine Lane to
+      park.
     actions:
       - type: Button
         label: Google Map
