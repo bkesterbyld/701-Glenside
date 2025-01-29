@@ -9,12 +9,13 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We look forward to seeing you! There is space in our driveway for 8-10
-      cars. As you enter our northern driveway entrance (with the mailbox)
-      please pull forward and park along the right side and along the curb in
-      front of the house. When those spots are gone, please leave the
-      street-side of the driveway clear for drop-offs, and park on Augustine
-      Lane.
+      We can't wait to see you! Our driveway has space for 8-10 cars. Please
+      enter through the northern driveway entrance (marked by the mailbox), pull
+      forward as far as you can, and park along the right side and along curb in
+      front of the house. That keeps the street-facing side of the driveway
+      clear for drop-offs. If there are no spots available turn right out of our
+      other driveway access and take the second left onto Augustine Lane to
+      park.
     actions:
       - type: Button
         label: Google Map
@@ -54,7 +55,7 @@ sections:
       Augustine Lane is near the big Glenside curve and is a 1-2 minute walk on
       the Southern sidewalk of Glenside. It may look like there is walking space
       across the street from Augustine, but residents planted stuff there long
-      ago that makes it dangerous to navigate.
+      ago and the walkway is gone.
 
 
       When on foot to our house, cross at the first / southern driveway entrance
